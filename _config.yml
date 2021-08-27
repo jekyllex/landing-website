@@ -1,0 +1,131 @@
+#page title
+page_title                                : JekyllEx App - Landing Page
+
+github_org_link                           : https://github.com/jekyllex
+github_repo                               : https://github.com/jekyllex/jekyllex-android
+github_download_link                      : https://github.com/jekyllex/jekyllex-android/releases/latest
+docs_link                                 : https://docs.jekyllex.xyz
+
+app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : JekyllEx                                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : JekyllEx is the easiest way to manage a jekyll blog directly from an android device.
+
+enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
+
+
+
+# Information About Yourself
+your_name                                 : Gourav Khunger                                
+your_link                                 : https://github.com/gouravkhunger                
+email_address                             : gouravkhunger18@gmail.com
+facebook_username                         :                                           
+instagram_username                        : _gourav.khunger_
+twitter_username                          : gourav_khunger
+github_username                           : gouravkhunger
+youtube_username                          : UCkv-J_D8jK2N02nBcyM92mQ
+
+
+
+# Feature List                            Edit, add or remove features to be presented.
+features                                  :
+
+  - title                                 : Manage your blog on the go
+    description                           : JekyllEx works on any Android device running Android Marshmellow(6.0) or above.
+    fontawesome_icon_name                 : magic
+    fontawesome_icon_style                : fas
+    
+  - title                                 : Mobile Friendly
+    description                           : JekyllEx app looks great on smartphones as well as tablets.
+    fontawesome_icon_name                 : mobile
+    fontawesome_icon_style                : fas
+
+  - title                                 : Amazing Editor
+    description                           : Powerful Markdown editor with features all markdown features and syncronized scrolling with preview pane. More coming soon.
+    fontawesome_icon_name                 : markdown
+    fontawesome_icon_style                : fab
+
+  - title                                 : Manage all your posts
+    description                           : Create, Edit or Delete any post from the app itself!
+    fontawesome_icon_name                 : sync
+    fontawesome_icon_style                : fas
+
+  - title                                 : Open source and Secure
+    description                           : JekyllEx uses Github's API to commit on your behalf, and no access tokens are stored online, so its completely secure! Moreover, everything is open source.
+    fontawesome_icon_name                 : link
+    fontawesome_icon_style                : fas
+
+  - title                                 : Make a blog from app itself
+    description                           : "[Coming soon] In the later updates, JekyllEx will support making a blog from the app itself!"
+    fontawesome_icon_name                 : star
+    fontawesome_icon_style                : fas
+
+  - title                                 : # New Feature Title
+    description                           : # New Feature Description
+    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+
+
+
+# Theme Settings
+topbar_color                              : "#000000"
+topbar_transparency                       : 0.1
+topbar_title_color                        : "#ffffff"
+
+cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_overlay_color                       : "#363b3d"
+cover_overlay_transparency                : 0.8
+
+device_color                              : blue                                     # Set to: blue, black, yellow, coral or white.
+
+body_background_color                     : "#ffffff"
+
+link_color                                : "#1d63ea"
+
+app_title_color                           : "#ffffff"
+app_price_color                           : "#ffffff"
+app_description_color                     : "#ffffff"
+
+feature_title_color                       : "#000000"
+feature_text_color                        : "#666666"
+
+feature_icons_foreground_color            : "#1d63ea"
+feature_icons_background_color            : "#e6e6e6"
+
+social_icons_foreground_color             : "#666666"
+social_icons_background_color             : "#e6e6e6"
+
+footer_text_color                         : "#666666"
+
+
+
+
+
+
+
+
+
+
+
+
+
+####################################################
+### Jekyll Configuration. No need to touch this. ###
+####################################################
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
+# Exclude these files from your production _site
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
+
+collections:
+  pages:
+    output: true
+    permalink: /:path
+
+# Markdown rendering
+markdown: kramdown
