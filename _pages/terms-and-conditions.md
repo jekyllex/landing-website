@@ -92,4 +92,4 @@ These terms and conditions are effective as of **26 August, 2021**
 ## Contact Us
 
 If you have any questions or suggestions about my Terms and Conditions, do not hesitate to
-contact me at [gouravkhunger18@gmail.com](mailto:gouravkhunger18@gmail.com).
+contact me at [hi@jekyllex.xyz](mailto:hi@jekyllex.xyz).

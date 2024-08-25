@@ -104,4 +104,4 @@ This policy is effective as of **26 August, 2021**
 ## Contact Us
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me
-at [gouravkhunger18@gmail.com](mailto:gouravkhunger18@gmail.com).
+at [hi@jekyllex.xyz](mailto:hi@jekyllex.xyz).
