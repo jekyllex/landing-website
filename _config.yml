@@ -18,8 +18,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Gourav Khunger                                
 your_link                                 : https://github.com/gouravkhunger                
-email_address                             : gouravkhunger18@gmail.com
-facebook_username                         :                                           
+email_address                             : hi@jekyllex.xyz
 twitter_username                          : gourav_khunger
 github_username                           : gouravkhunger
 youtube_username                          : UCkv-J_D8jK2N02nBcyM92mQ
@@ -40,12 +39,12 @@ features                                  :
     fontawesome_icon_style                : fas
 
   - title                                 : In-app terminal & previews
-    description                           : Run commands like you are on your desktop. Preview how your blog would look in-app right besides the editing pane!
+    description                           : Run commands like you are on your desktop. Preview how your blog would look in-app right besides the editor!
     fontawesome_icon_name                 : terminal
     fontawesome_icon_style                : fas
 
   - title                                 : GitHub Pages environment
-    description                           : Blogs compatible with github-pages can run right away! Create, Edit or Delete anything from the app itself!
+    description                           : Blogs compatible with github-pages can run right away! Create, Edit or Delete anything from the app itself.
     fontawesome_icon_name                 : github
     fontawesome_icon_style                : fab
 
@@ -55,7 +54,7 @@ features                                  :
     fontawesome_icon_style                : fab
 
   - title                                 : Open source & Secure
-    description                           : JekyllEx integrates with GitHub using on-device access token (no backend), so its completely secure! Moreover, everything is open source.
+    description                           : JekyllEx integrates with GitHub using on-device access tokens (no backend). Moreover, everything is open source!
     fontawesome_icon_name                 : link
     fontawesome_icon_style                : fas
 
@@ -125,18 +124,6 @@ collections:
   pages:
     output: true
     permalink: /:path
-  licenses:
-    output: true
-    sort_by: code
-    permalink: /licenses/:path
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "licenses" # a collection in your site, in plural form
-    values:
-      layout: "page"
 
 # Markdown rendering
 markdown: kramdown
