@@ -44,12 +44,12 @@ features                                  :
     fontawesome_icon_style                : fas
 
   - title                                 : GitHub Pages environment
-    description                           : Blogs compatible with github-pages can run right away! Create, Edit or Delete anything from the app itself.
+    description                           : Blogs compatible with github-pages can run right away! Create, edit or delete anything from the app itself.
     fontawesome_icon_name                 : github
     fontawesome_icon_style                : fab
 
   - title                                 : Amazing Editor
-    description                           : Powerful editor supporting syntax highlighting for any language. Themes and font size customization coming soon!
+    description                           : Powerful editor supporting syntax highlighting for all language. Themes and font size customization coming soon!
     fontawesome_icon_name                 : markdown
     fontawesome_icon_style                : fab
 
