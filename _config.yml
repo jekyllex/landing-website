@@ -8,7 +8,7 @@ docs_link                                 : https://docs.jekyllex.xyz
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : JekyllEx                                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : The mobile IDE for Jekyll websites!
 app_description                           : JekyllEx is the easiest way to manage a jekyll blog directly from an android device.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -49,7 +49,7 @@ features                                  :
     fontawesome_icon_style                : fab
 
   - title                                 : Amazing Editor
-    description                           : Powerful editor supporting syntax highlighting for all language. Themes and font size customization coming soon!
+    description                           : Powerful editor supporting syntax highlighting for all languages. Themes and font size customization coming soon!
     fontawesome_icon_name                 : markdown
     fontawesome_icon_style                : fab
 
