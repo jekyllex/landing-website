@@ -49,7 +49,7 @@ features                                  :
     fontawesome_icon_style                : fab
 
   - title                                 : Amazing Editor
-    description                           : Powerful editor supporting syntax highlighting for all languages. Themes and font size customization coming soon!
+    description                           : Powerful editor supporting syntax highlighting for all languages. Theme and font customizations coming soon!
     fontawesome_icon_name                 : markdown
     fontawesome_icon_style                : fab
 
