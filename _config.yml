@@ -8,7 +8,7 @@ docs_link                                 : https://docs.jekyllex.xyz
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : JekyllEx                                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : The mobile IDE for Jekyll websites!
 app_description                           : JekyllEx is the easiest way to manage a jekyll blog directly from an android device.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -18,9 +18,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Gourav Khunger                                
 your_link                                 : https://github.com/gouravkhunger                
-email_address                             : gouravkhunger18@gmail.com
-facebook_username                         :                                           
-instagram_username                        : _gourav.khunger_
+email_address                             : hi@jekyllex.xyz
 twitter_username                          : gourav_khunger
 github_username                           : gouravkhunger
 youtube_username                          : UCkv-J_D8jK2N02nBcyM92mQ
@@ -31,33 +29,33 @@ youtube_username                          : UCkv-J_D8jK2N02nBcyM92mQ
 features                                  :
 
   - title                                 : Manage your blog on the go
-    description                           : JekyllEx works on any Android device running Android Marshmellow(6.0) or above.
+    description                           : JekyllEx works on any device running Android Nougat(7.0) or above. The app looks great on smartphones as well as tablets.
     fontawesome_icon_name                 : magic
     fontawesome_icon_style                : fas
     
-  - title                                 : Mobile Friendly
-    description                           : JekyllEx app looks great on smartphones as well as tablets.
-    fontawesome_icon_name                 : mobile
+  - title                                 : No limitations
+    description                           : "JekyllEx embeds git, jekyll & ruby natively, so everything that is possible on the desktop, can be done on the app!"
+    fontawesome_icon_name                 : star
     fontawesome_icon_style                : fas
 
+  - title                                 : In-app terminal & previews
+    description                           : Run commands like you are on your desktop. Preview how your blog would look in-app right besides the editor!
+    fontawesome_icon_name                 : terminal
+    fontawesome_icon_style                : fas
+
+  - title                                 : GitHub Pages environment
+    description                           : Blogs compatible with github-pages can run right away! Create, edit or delete anything from the app itself.
+    fontawesome_icon_name                 : github
+    fontawesome_icon_style                : fab
+
   - title                                 : Amazing Editor
-    description                           : Powerful Markdown editor with features all markdown features and syncronized scrolling with preview pane. More coming soon.
+    description                           : Powerful editor supporting syntax highlighting for all languages. Theme and font customizations coming soon!
     fontawesome_icon_name                 : markdown
     fontawesome_icon_style                : fab
 
-  - title                                 : Manage all your posts
-    description                           : Create, Edit or Delete any post from the app itself!
-    fontawesome_icon_name                 : sync
-    fontawesome_icon_style                : fas
-
-  - title                                 : Open source and Secure
-    description                           : JekyllEx uses Github's API to commit on your behalf, and no access tokens are stored online, so its completely secure! Moreover, everything is open source.
+  - title                                 : Open source & Secure
+    description                           : JekyllEx integrates with GitHub using on-device access tokens (no backend). Moreover, everything is open source!
     fontawesome_icon_name                 : link
-    fontawesome_icon_style                : fas
-
-  - title                                 : Make a blog from app itself
-    description                           : "[Coming soon] In the later updates, JekyllEx will support making a blog from the app itself!"
-    fontawesome_icon_name                 : star
     fontawesome_icon_style                : fas
 
   - title                                 : # New Feature Title
