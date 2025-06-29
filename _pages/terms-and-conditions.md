@@ -4,15 +4,15 @@ title: Terms & Conditions
 include_in_header: false
 ---
 
-**Last updated**
-26 August, 2021
+**Last updated**: 29 June, 2025
 
 # Terms & Conditions
-By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way.
+By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. 
 
-You shouldn’t try to translate the app into other languages, or make derivative versions.
-If you wish to do so, that should be done on the github repository of this project by
-making pull requests.
+As JekyllEx is a Free/Libre and Open Source Software (FLOSS), you are free to copy, modify, 
+distribute, and create derivative versions of the app in accordance with project's
+<a href="/licenses" target="_self">license terms</a> - particularly, providing attribution where applicable.
+We encourage contributions through the GitHub repository of this project.
 
 The app itself, and all the trade marks, copyright, database rights and other intellectual
 property rights related to it, still belong to Gourav Khunger.
@@ -22,8 +22,8 @@ For that reason, we reserve the right to make changes to the app or to charge fo
 at any time and for any reason. We will never charge you for the app or its services without
 making it very clear to you exactly what you’re paying for.
 
-The JekyllEx app stores and processes personal data that you have provided to us, in order
-to provide my Service. It’s your responsibility to keep your phone and access to the app secure.
+The JekyllEx app does not store or process any personal data. All data remains locally on your device.
+It's your responsibility to keep your phone and access to the app secure.
 
 We therefore recommend that you do not jailbreak or root your phone, which is the process of
 removing software restrictions and limitations imposed by the official operating system of your
@@ -33,12 +33,8 @@ It could make your phone vulnerable to malware/viruses/malicious programs,
 compromise your phone’s security features and it could mean that the JekyllEx app won’t work
 properly or at all.
 
-The app does use third party services that declare their own Terms and Conditions.
-
-Link to Terms and Conditions of third party service providers used by the app
-
-*   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics) 
-*   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+As a FLOSS application, JekyllEx does not use any third-party services for data collection,
+analytics, or tracking.
 
 You should be aware that there are certain things that Gourav Khunger will not take
 responsibility for. Certain functions of the app will require the app to have an active
@@ -63,14 +59,13 @@ Along the same lines, Gourav Khunger cannot always take responsibility for the w
 app i.e. You need to make sure that your device stays charged – if it runs out of battery and
 you can’t turn it on to avail the Service, Gourav Khunger cannot accept responsibility.
 
-With respect to Gourav Khunger’s responsibility for your use of the app, when you’re using the
-app, it’s important to bear in mind that although we endeavour to ensure that it is updated and
-correct at all times, we do rely on third parties to provide information to us so that we can
-make it available to you. Gourav Khunger accepts no liability for any loss, direct or indirect,
-you experience as a result of relying wholly on this functionality of the app.
+With respect to Gourav Khunger's responsibility for your use of the app, when you're using the
+app, it's important to bear in mind that although we endeavour to ensure that it is updated and
+correct at all times, Gourav Khunger accepts no liability for any loss, direct or indirect,
+you experience as a result of using the app.
 
 At some point, we may wish to update the app. The app is currently available on Android – the
-requirements for system(and for any additional systems we decide to extend the availability of the
+requirements for system (and for any additional systems we decide to extend the availability of the
 app to) may change, and you’ll need to download the updates if you want to keep using the app.
 Gourav Khunger does not promise that it will always update the app so that it is relevant to you
 and/or works with the Android version that you have installed on your device.
@@ -87,7 +82,7 @@ I may update our Terms and Conditions from time to time. Thus, you are advised t
 page periodically for any changes. I will notify you of any changes by posting the new
 Terms and Conditions on this page.
 
-These terms and conditions are effective as of **26 August, 2021**
+These terms and conditions are effective as of **29 June, 2025**. The first draft was created on **26 August, 2021**.
 
 ## Contact Us
 
