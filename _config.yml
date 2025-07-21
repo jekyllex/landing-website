@@ -4,6 +4,7 @@ page_title                                : JekyllEx App - Landing Page
 github_org_link                           : https://github.com/jekyllex
 github_repo                               : https://github.com/jekyllex/jekyllex-android
 github_download_link                      : https://github.com/jekyllex/jekyllex-android/releases/latest
+f_droid_download_link                     : https://f-droid.org/packages/xyz.jekyllex/
 docs_link                                 : https://docs.jekyllex.xyz
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
