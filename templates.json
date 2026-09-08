@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Chirpy",
+    "image": "https://opengraph.githubassets.com/1/cotes2020/chirpy-starter",
+    "description": "A minimal, responsive, feature-rich Jekyll theme for technical writing.",
+    "url": "https://chirpy.cotes.page/",
+    "git": "https://github.com/cotes2020/chirpy-starter.git",
+    "version": "v7.6.0"
+  },
+  {
+    "name": "Minimal Mistakes",
+    "image": "https://opengraph.githubassets.com/1/mmistakes/minimal-mistakes",
+    "description": "A flexible two-column Jekyll theme for blogs, portfolios, and documentation.",
+    "url": "https://mmistakes.github.io/minimal-mistakes/",
+    "git": "https://github.com/mmistakes/minimal-mistakes.git",
+    "version": "4.28.1"
+  },
+  {
+    "name": "Beautiful Jekyll",
+    "image": "https://opengraph.githubassets.com/1/daattali/beautiful-jekyll",
+    "description": "A ready-to-use Jekyll theme for a personal website or blog.",
+    "url": "https://beautifuljekyll.com/",
+    "git": "https://github.com/daattali/beautiful-jekyll.git",
+    "version": "6.0.1"
+  }
+]
