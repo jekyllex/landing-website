@@ -1,7 +1,7 @@
 [
   {
     "name": "Chirpy",
-    "image": "https://opengraph.githubassets.com/1/cotes2020/chirpy-starter",
+    "image": "https://chirpy-img.netlify.app/commons/devices-mockup.png",
     "description": "A minimal, responsive, feature-rich Jekyll theme for technical writing.",
     "url": "https://chirpy.cotes.page/",
     "git": "https://github.com/cotes2020/chirpy-starter.git",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Minimal Mistakes",
-    "image": "https://opengraph.githubassets.com/1/mmistakes/minimal-mistakes",
+    "image": "https://mmistakes.github.io/minimal-mistakes/assets/images/mm-home-page-feature.jpg",
     "description": "A flexible two-column Jekyll theme for blogs, portfolios, and documentation.",
     "url": "https://mmistakes.github.io/minimal-mistakes/",
     "git": "https://github.com/mmistakes/minimal-mistakes.git",
@@ -17,10 +17,82 @@
   },
   {
     "name": "Beautiful Jekyll",
-    "image": "https://opengraph.githubassets.com/1/daattali/beautiful-jekyll",
+    "image": "https://beautifuljekyll.com/assets/img/screenshot.png",
     "description": "A ready-to-use Jekyll theme for a personal website or blog.",
     "url": "https://beautifuljekyll.com/",
     "git": "https://github.com/daattali/beautiful-jekyll.git",
     "version": "6.0.1"
+  },
+  {
+    "name": "Minima",
+    "image": "https://raw.githubusercontent.com/jekyll/minima/v2.5.2/screenshot.png",
+    "description": "Jekyll's default theme. A simple layout for writers.",
+    "url": "https://jekyll.github.io/minima/",
+    "git": "https://github.com/jekyll/minima.git",
+    "version": "v2.5.2"
+  },
+  {
+    "name": "al-folio",
+    "image": "https://repository-images.githubusercontent.com/60024365/0662e200-b3ce-11ea-8a26-a558efdcfbe5",
+    "description": "A clean academic site with publications, projects, and a CV.",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "git": "https://github.com/alshedivat/al-folio.git",
+    "version": "v1.2"
+  },
+  {
+    "name": "TeXt",
+    "image": "https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/v2.2.6/screenshots/TeXt-home.jpg",
+    "description": "A customizable theme for a blog, project, or documentation site.",
+    "url": "https://kitian616.github.io/jekyll-TeXt-theme/",
+    "git": "https://github.com/kitian616/jekyll-TeXt-theme.git",
+    "version": "v2.2.6"
+  },
+  {
+    "name": "So Simple",
+    "image": "https://repository-images.githubusercontent.com/10949028/e17e3c80-295f-11ea-92ba-80488599eb32",
+    "description": "A simple theme for words and pictures.",
+    "url": "https://mmistakes.github.io/so-simple-theme/",
+    "git": "https://github.com/mmistakes/so-simple-theme.git",
+    "version": "3.2.0"
+  },
+  {
+    "name": "YAT",
+    "image": "https://repository-images.githubusercontent.com/227518583/8ae97859-d461-405f-a0a8-1f89929ed85a",
+    "description": "A flat blog theme with a dark mode for long reading.",
+    "url": "https://jeffreytse.github.io/jekyll-theme-yat/",
+    "git": "https://github.com/jeffreytse/jekyll-theme-yat.git",
+    "version": "v1.10.0"
+  },
+  {
+    "name": "No Style, Please",
+    "image": "https://raw.githubusercontent.com/riggraz/no-style-please/v0.3.1/_screenshots/featured-image.png",
+    "description": "A fast, nearly CSS-free minimalist theme.",
+    "url": "https://riggraz.dev/no-style-please/",
+    "git": "https://github.com/riggraz/no-style-please.git",
+    "version": "v0.3.1"
+  },
+  {
+    "name": "Mediumish",
+    "image": "https://repository-images.githubusercontent.com/117296026/da304f00-5e38-11ea-966e-91ed6811d8da",
+    "description": "A Medium-style Jekyll blog theme.",
+    "url": "https://codebygina.github.io/mediumish-theme-jekyll/",
+    "git": "https://github.com/codebygina/mediumish-theme-jekyll.git",
+    "version": "1.0.36"
+  },
+  {
+    "name": "Type on Strap",
+    "image": "https://repository-images.githubusercontent.com/105538315/783db980-68f8-11e9-8466-9a7554f42302",
+    "description": "A simple, colorful theme with a Bootstrap layout.",
+    "url": "https://sylhare.github.io/Type-on-Strap/",
+    "git": "https://github.com/sylhare/Type-on-Strap.git",
+    "version": "v2.5.3"
+  },
+  {
+    "name": "Cayman",
+    "image": "https://raw.githubusercontent.com/pages-themes/cayman/v0.2.0/thumbnail.png",
+    "description": "The Cayman theme from GitHub Pages.",
+    "url": "https://pages-themes.github.io/cayman/",
+    "git": "https://github.com/pages-themes/cayman.git",
+    "version": "v0.2.0"
   }
 ]
